@@ -1,0 +1,4 @@
+*.kra~
+.*-autosave.kra
+.DS_Store
+Thumbs.db
